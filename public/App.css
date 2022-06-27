@@ -1,0 +1,92 @@
+.Login{
+    border-radius: 8px 8px 8px 8px;
+    width: 200px;
+    text-align: left;
+    padding : 2px;
+    margin-left: 40px;;
+    width: 300px;;
+}
+.heading{
+    text-decoration: underline;
+    padding-bottom: 20px;
+}
+/* .App{
+    background-color: #B1BCE6;
+} */
+.Pass{
+    
+    border-radius: 8px 8px 8px 8px;
+    width: 200px;
+    text-align: left;
+    padding : 2px;
+    margin-left: 44px;;
+    width:300px
+    
+}
+.div1{ 
+    
+    border: 2px solid;
+    border-width: 5px;
+  border-radius: 10px;
+  padding-top: 1cm;
+  padding-bottom: 1cm;
+  padding-left: 2cm;
+  width: 600px;;
+  margin-top: 200px;;
+  background-color: #9CB4CC;
+  margin-left: 500px ;
+
+}
+    
+
+
+.button{
+    margin-left: 350px;;
+    
+    
+}
+.LogOut{
+    margin-left:750px;
+
+    margin-top: 20px;;
+
+}
+.img {
+    border-radius: 100%;
+    margin-left: 30px;
+    display::list-item;
+  
+  position:relative;
+  
+  padding: 1rem;
+  flex-wrap: wrap;
+    
+}
+.divimg{
+    
+    
+    height: 100px;
+    width: 300px;
+    margin-left: 200px;
+    
+    
+}
+.divname{
+    margin-left: 200px;;
+    
+}
+.body{
+    border: 2px solid;
+    border-width: 5px;
+  border-radius: 10px;
+  padding-top: 1cm;
+  padding-bottom: 1cm;
+  padding-left: 1cm;
+  max-width: fit-content;
+  width: min-content;
+  margin-left: 400px;;
+  margin-top: 20px;;
+  
+  
+  
+}
